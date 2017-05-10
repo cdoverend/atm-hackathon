@@ -777,6 +777,7 @@
 				24B316A31EC378E600F8B3A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		24B316A51EC378E600F8B3A8 /* Build configuration list for PBXNativeTarget "ATMHackathonApp WatchKit App" */ = {
 			isa = XCConfigurationList;
@@ -785,6 +786,7 @@
 				24B316A71EC378E600F8B3A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		24B316A91EC378E600F8B3A8 /* Build configuration list for PBXNativeTarget "ATMHackathonApp" */ = {
 			isa = XCConfigurationList;
@@ -793,6 +795,7 @@
 				24B316AB1EC378E600F8B3A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		24B316AC1EC378E600F8B3A8 /* Build configuration list for PBXNativeTarget "ATMHackathonAppTests" */ = {
 			isa = XCConfigurationList;
@@ -801,6 +804,7 @@
 				24B316AE1EC378E600F8B3A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		24B316AF1EC378E600F8B3A8 /* Build configuration list for PBXNativeTarget "ATMHackathonAppUITests" */ = {
 			isa = XCConfigurationList;
@@ -809,6 +813,7 @@
 				24B316B11EC378E600F8B3A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
